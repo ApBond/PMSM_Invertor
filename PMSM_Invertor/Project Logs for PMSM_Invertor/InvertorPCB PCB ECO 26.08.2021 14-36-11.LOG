@@ -1,0 +1,36 @@
+Added Component: Designator=X1(PCBM4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "+¿ ¡"; VariantName = "[No Variations]"
+Added Component: Designator=X2(PCBM4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "GND"; VariantName = "[No Variations]"
+Added Component: Designator=X3(PCBM4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "‘‡Á‡ ¿"; VariantName = "[No Variations]"
+Added Component: Designator=X4(PCBM4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "‘‡Á‡ B"; VariantName = "[No Variations]"
+Added Component: Designator=X5(PCBM4)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "‘‡Á‡ C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VM Pin=X1-1
+Added Pin To Net: NetName=+VM Pin=X1-1
+Added Pin To Net: NetName=+VM Pin=X1-1
+Added Pin To Net: NetName=+VM Pin=X1-1
+Added Pin To Net: NetName=+VM Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-1
+Added Pin To Net: NetName=GND Pin=X2-1
+Added Member To Class: ClassName=bridge Member=Component X1 Connector-1
+Added Member To Class: ClassName=bridge Member=Component X2 Connector-1
+Added Member To Class: ClassName=bridge Member=Component X3 Connector-1_1
+Added Member To Class: ClassName=bridge Member=Component X4 Connector-1_1
+Added Member To Class: ClassName=bridge Member=Component X5 Connector-1_1
+Added Room: Name=bridge

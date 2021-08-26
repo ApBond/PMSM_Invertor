@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Current_A Pin=X6-4
+Removed Pin From Net: NetName=Current_C Pin=X6-5
+Removed Pin From Net: NetName=Current_B Pin=X6-9
+Added Pin To Net: NetName=Current_A_out Pin=X6-4
+Added Pin To Net: NetName=Current_B_out Pin=X6-5
+Added Pin To Net: NetName=Current_C_out Pin=X6-9

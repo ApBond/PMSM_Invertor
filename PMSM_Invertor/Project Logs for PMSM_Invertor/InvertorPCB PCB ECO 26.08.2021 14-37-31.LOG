@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=X8 Old Footprint=D0-124AC New Footprint=PLS3
+Change Component Footprint: Designator=X7 Old Footprint=DG950-02 New Footprint=KF300-5-2
+Change Component Footprint: Designator=X9 Old Footprint=DG950-02 New Footprint=KF300-5-2
+Added Pin To Net: NetName=GND Pin=X8-1
+Added Pin To Net: NetName=GND Pin=X8-2
+Added Pin To Net: NetName=GND Pin=X8-3

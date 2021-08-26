@@ -1,0 +1,6 @@
+Remove Pin=X3-1 From Net=OutA
+Remove Pin=X4-1 From Net=OutB
+Remove Pin=X5-1 From Net=OutC
+Change Component Footprint: Designator=X7 Old Footprint=KF300-5-2 New Footprint=DG950-02
+Change Component Footprint: Designator=X9 Old Footprint=KF300-5-2 New Footprint=DG950-02
+Change Component Footprint: Designator=X8 Old Footprint=PLS3 New Footprint=D0-124AC
