@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+3.3 Pin=R17-2
+Removed Pin From Net: NetName=+3.3 Pin=R26-2
+Change component parameters: Designator = "DA2" ("DA2"); Footprint = "DIP14"; UniqueID = "\UTYBRTSN" ("\UTYBRTSN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ir2010"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA5" ("DA5"); Footprint = "DIP14"; UniqueID = "\AZCAPTFY" ("\AZCAPTFY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ir2010"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA7" ("DA7"); Footprint = "DIP14"; UniqueID = "\CHQACCXM" ("\CHQACCXM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ir2010"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA1" ("DA1"); Footprint = "SO8"; UniqueID = "\KMRETUXC" ("\KMRETUXC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.platan.ru/cgi-bin/qwery.pl/id=2010029983"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Droduct link 2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.platan.ru/cgi-bin/qwery.pl/id=2011915272"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://doc.platan.ru/pdf/datasheets/analogdevices/AD623-877194.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=R17-2
+Added Pin To Net: NetName=+5 Pin=R26-2
+Added Member To Class: ClassName=bridge Member=Component C4 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C8 Capacitor
+Added Member To Class: ClassName=bridge Member=Component DA2 IR2010PFB
+Added Member To Class: ClassName=bridge Member=Component X2 Connector-1

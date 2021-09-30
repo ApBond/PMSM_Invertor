@@ -1,0 +1,99 @@
+Removed Member From Class: ClassName=Sheet1 Member=C12
+Removed Member From Class: ClassName=Sheet1 Member=C13
+Removed Member From Class: ClassName=Sheet1 Member=C15
+Removed Member From Class: ClassName=power_elements Member=C31
+Removed Member From Class: ClassName=power_elements Member=C32
+Removed Member From Class: ClassName=power_elements Member=C33
+Removed Member From Class: ClassName=power_elements Member=C34
+Removed Member From Class: ClassName=power_elements Member=C35
+Removed Member From Class: ClassName=power_elements Member=C36
+Removed Member From Class: ClassName=bridge Member=R37
+Removed Member From Class: ClassName=bridge Member=R39
+Removed Member From Class: ClassName=bridge Member=R41
+Removed Member From Class: ClassName=bridge Member=R51
+Removed Member From Class: ClassName=Sheet1 Member=R51
+Removed Member From Class: ClassName=bridge Member=R52
+Removed Member From Class: ClassName=Sheet1 Member=R52
+Removed Member From Class: ClassName=bridge Member=R53
+Removed Member From Class: ClassName=Sheet1 Member=R53
+Removed Member From Class: ClassName=bridge Member=R54
+Removed Member From Class: ClassName=Sheet1 Member=R54
+Removed Member From Class: ClassName=Sheet1 Member=R55
+Removed Member From Class: ClassName=bridge Member=R56
+Removed Member From Class: ClassName=Sheet1 Member=R56
+Removed Member From Class: ClassName=Sheet1 Member=R57
+Removed Member From Class: ClassName=bridge Member=R58
+Removed Member From Class: ClassName=Sheet1 Member=R58
+Added Pin To Net: NetName=D- Pin=R46-2
+Added Member To Class: ClassName=bridge Member=Component C6 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C7 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C10 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C11 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C12 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C13 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C14 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C15 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C16 Capacitor
+Added Member To Class: ClassName=Sheet1 Member=Component C17
+Added Member To Class: ClassName=Sheet1 Member=Component C18
+Added Member To Class: ClassName=Sheet1 Member=Component C23
+Added Member To Class: ClassName=Sheet1 Member=Component C25
+Added Member To Class: ClassName=Sheet1 Member=Component C27
+Added Member To Class: ClassName=Sheet1 Member=Component C31
+Added Member To Class: ClassName=Sheet1 Member=Component C32
+Added Member To Class: ClassName=Sheet1 Member=Component C33
+Added Member To Class: ClassName=Sheet1 Member=Component C34
+Added Member To Class: ClassName=Sheet1 Member=Component C35
+Added Member To Class: ClassName=Sheet1 Member=Component C36
+Added Member To Class: ClassName=power_elements Member=Component C38
+Added Member To Class: ClassName=power_elements Member=Component C40
+Added Member To Class: ClassName=power_elements Member=Component C42
+Added Member To Class: ClassName=power_elements Member=Component C47
+Added Member To Class: ClassName=power_elements Member=Component C48
+Added Member To Class: ClassName=power_elements Member=Component C49
+Added Member To Class: ClassName=power_elements Member=Component C50
+Added Member To Class: ClassName=power_elements Member=Component C51
+Added Member To Class: ClassName=power_elements Member=Component C52
+Added Member To Class: ClassName=bridge Member=Component R1 Resistor
+Added Member To Class: ClassName=bridge Member=Component R2 Resistor
+Added Member To Class: ClassName=bridge Member=Component R3 Resistor
+Added Member To Class: ClassName=bridge Member=Component R4 Resistor
+Added Member To Class: ClassName=bridge Member=Component R5 Resistor
+Added Member To Class: ClassName=bridge Member=Component R6 Resistor
+Added Member To Class: ClassName=bridge Member=Component R7 Resistor
+Added Member To Class: ClassName=bridge Member=Component R9 Resistor
+Added Member To Class: ClassName=bridge Member=Component R11 Resistor
+Added Member To Class: ClassName=bridge Member=Component R12 Resistor
+Added Member To Class: ClassName=bridge Member=Component R13 Resistor
+Added Member To Class: ClassName=bridge Member=Component R14 Resistor
+Added Member To Class: ClassName=bridge Member=Component R15 Resistor
+Added Member To Class: ClassName=bridge Member=Component R16 Resistor
+Added Member To Class: ClassName=bridge Member=Component R17 Resistor
+Added Member To Class: ClassName=bridge Member=Component R18 Resistor
+Added Member To Class: ClassName=bridge Member=Component R19 Resistor
+Added Member To Class: ClassName=bridge Member=Component R20 Resistor
+Added Member To Class: ClassName=bridge Member=Component R21 Resistor
+Added Member To Class: ClassName=bridge Member=Component R22 Resistor
+Added Member To Class: ClassName=bridge Member=Component R23 Resistor
+Added Member To Class: ClassName=bridge Member=Component R24 pot
+Added Member To Class: ClassName=bridge Member=Component R25 Resistor
+Added Member To Class: ClassName=bridge Member=Component R27 Resistor
+Added Member To Class: ClassName=bridge Member=Component R28 Resistor
+Added Member To Class: ClassName=bridge Member=Component R30 Resistor
+Added Member To Class: ClassName=bridge Member=Component R32 Resistor
+Added Member To Class: ClassName=bridge Member=Component R34 Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component R35
+Added Member To Class: ClassName=Sheet1 Member=Component R36
+Added Member To Class: ClassName=Sheet1 Member=Component R37
+Added Member To Class: ClassName=Sheet1 Member=Component R38
+Added Member To Class: ClassName=Sheet1 Member=Component R39
+Added Member To Class: ClassName=Sheet1 Member=Component R40
+Added Member To Class: ClassName=Sheet1 Member=Component R41
+Added Member To Class: ClassName=Sheet1 Member=Component R42
+Added Member To Class: ClassName=Sheet1 Member=Component R43
+Added Member To Class: ClassName=Sheet1 Member=Component R44
+Added Member To Class: ClassName=Sheet1 Member=Component R45
+Added Member To Class: ClassName=Sheet1 Member=Component R46
+Added Member To Class: ClassName=Sheet1 Member=Component R47
+Added Member To Class: ClassName=Sheet1 Member=Component R48
+Added Member To Class: ClassName=Sheet1 Member=Component R49

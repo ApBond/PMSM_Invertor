@@ -1,0 +1,90 @@
+Added Component: Designator=XP2(PLS-16)
+Added Component: Designator=XP3(PLS-16)
+Added Component: Designator=XP4(PLS-16)
+Added Component: Designator=XP5(PLS-16)
+Added Component: Designator=XP6(PLS-16)
+Added Pin To Net: NetName=PB0 Pin=XP2-1
+Added Pin To Net: NetName=PB1 Pin=XP2-2
+Added Pin To Net: NetName=PB2 Pin=XP2-3
+Added Pin To Net: NetName=PB3 Pin=XP2-4
+Added Pin To Net: NetName=PB4 Pin=XP2-5
+Added Pin To Net: NetName=PB5 Pin=XP2-6
+Added Pin To Net: NetName=PB6 Pin=XP2-7
+Added Pin To Net: NetName=PB7 Pin=XP2-8
+Added Pin To Net: NetName=PB8 Pin=XP2-9
+Added Pin To Net: NetName=PB9 Pin=XP2-10
+Added Pin To Net: NetName=PB10 Pin=XP2-11
+Added Pin To Net: NetName=PB11 Pin=XP2-12
+Added Pin To Net: NetName=PB12 Pin=XP2-13
+Added Pin To Net: NetName=PB13 Pin=XP2-14
+Added Pin To Net: NetName=PB14 Pin=XP2-15
+Added Pin To Net: NetName=PB15 Pin=XP2-16
+Added Pin To Net: NetName=PC0 Pin=XP3-1
+Added Pin To Net: NetName=PC1 Pin=XP3-2
+Added Pin To Net: NetName=PC2 Pin=XP3-3
+Added Pin To Net: NetName=PC3 Pin=XP3-4
+Added Pin To Net: NetName=PC4 Pin=XP3-5
+Added Pin To Net: NetName=PC5 Pin=XP3-6
+Added Pin To Net: NetName=PC6 Pin=XP3-7
+Added Pin To Net: NetName=PC7 Pin=XP3-8
+Added Pin To Net: NetName=PC8 Pin=XP3-9
+Added Pin To Net: NetName=PC9 Pin=XP3-10
+Added Pin To Net: NetName=PC10 Pin=XP3-11
+Added Pin To Net: NetName=PC11 Pin=XP3-12
+Added Pin To Net: NetName=PC12 Pin=XP3-13
+Added Pin To Net: NetName=PC13 Pin=XP3-14
+Added Pin To Net: NetName=PC14 Pin=XP3-15
+Added Pin To Net: NetName=PC15 Pin=XP3-16
+Added Pin To Net: NetName=PD0 Pin=XP4-1
+Added Pin To Net: NetName=PD1 Pin=XP4-2
+Added Pin To Net: NetName=PD2 Pin=XP4-3
+Added Pin To Net: NetName=PD3 Pin=XP4-4
+Added Pin To Net: NetName=PD4 Pin=XP4-5
+Added Pin To Net: NetName=PD5 Pin=XP4-6
+Added Pin To Net: NetName=PD6 Pin=XP4-7
+Added Pin To Net: NetName=PD7 Pin=XP4-8
+Added Pin To Net: NetName=PD8 Pin=XP4-9
+Added Pin To Net: NetName=PD9 Pin=XP4-10
+Added Pin To Net: NetName=PD13 Pin=XP4-11
+Added Pin To Net: NetName=PD14 Pin=XP4-12
+Added Pin To Net: NetName=PD15 Pin=XP4-13
+Added Pin To Net: NetName=PA15 Pin=XP4-14
+Added Pin To Net: NetName=PE14 Pin=XP4-15
+Added Pin To Net: NetName=PE15 Pin=XP4-16
+Added Pin To Net: NetName=PA0 Pin=XP5-1
+Added Pin To Net: NetName=PA1 Pin=XP5-2
+Added Pin To Net: NetName=PA2 Pin=XP5-3
+Added Pin To Net: NetName=PA3 Pin=XP5-4
+Added Pin To Net: NetName=PA4 Pin=XP5-5
+Added Pin To Net: NetName=PA5 Pin=XP5-6
+Added Pin To Net: NetName=PA6 Pin=XP5-7
+Added Pin To Net: NetName=PA7 Pin=XP5-8
+Added Pin To Net: NetName=PA8 Pin=XP5-9
+Added Pin To Net: NetName=PE0 Pin=XP5-10
+Added Pin To Net: NetName=PE1 Pin=XP5-11
+Added Pin To Net: NetName=PE2 Pin=XP5-12
+Added Pin To Net: NetName=PE3 Pin=XP5-13
+Added Pin To Net: NetName=PE4 Pin=XP5-14
+Added Pin To Net: NetName=PE5 Pin=XP5-15
+Added Pin To Net: NetName=PE6 Pin=XP5-16
+Added Pin To Net: NetName=PE7 Pin=XP6-1
+Added Pin To Net: NetName=+5 Pin=XP6-2
+Added Pin To Net: NetName=+5 Pin=XP6-3
+Added Pin To Net: NetName=+5 Pin=XP6-4
+Added Pin To Net: NetName=+5 Pin=XP6-5
+Added Pin To Net: NetName=+5 Pin=XP6-6
+Added Pin To Net: NetName=ext3 Pin=XP6-7
+Added Pin To Net: NetName=ext3 Pin=XP6-8
+Added Pin To Net: NetName=ext3 Pin=XP6-9
+Added Pin To Net: NetName=ext3 Pin=XP6-10
+Added Pin To Net: NetName=ext3 Pin=XP6-11
+Added Pin To Net: NetName=GND Pin=XP6-12
+Added Pin To Net: NetName=GND Pin=XP6-13
+Added Pin To Net: NetName=GND Pin=XP6-14
+Added Pin To Net: NetName=GND Pin=XP6-15
+Added Pin To Net: NetName=GND Pin=XP6-16
+Added Member To Class: ClassName=Sheet1 Member=Component XP2
+Added Member To Class: ClassName=Sheet1 Member=Component XP3
+Added Member To Class: ClassName=Sheet1 Member=Component XP4
+Added Member To Class: ClassName=Sheet1 Member=Component XP5
+Added Member To Class: ClassName=Sheet1 Member=Component XP6

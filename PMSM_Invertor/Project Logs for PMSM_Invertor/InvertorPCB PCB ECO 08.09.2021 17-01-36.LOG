@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetHL1_1 Pin=R37-1
+Removed Pin From Net: NetName=NetHL2_1 Pin=R39-1
+Removed Pin From Net: NetName=NetHL4_1 Pin=R43-2
+Removed Pin From Net: NetName=NetHL5_1 Pin=R44-2
+Change Component Comment : Designator=HL1 Old Comment= New Comment==Part Number
+Change Component Comment : Designator=HL2 Old Comment= New Comment==Part Number
+Change Component Comment : Designator=HL3 Old Comment= New Comment==Part Number
+Change Component Comment : Designator=HL4 Old Comment= New Comment==Part Number
+Change Component Comment : Designator=HL5 Old Comment= New Comment==Part Number
+Change component parameters: Designator = "HL1" ("HL1"); Footprint = "C0603D"; UniqueID = "\ZQQJHEYF" ("\ZQQJHEYF")
+Change component parameters: Designator = "HL2" ("HL2"); Footprint = "C0603D"; UniqueID = "\AHDSYIFF" ("\AHDSYIFF")
+Change component parameters: Designator = "HL3" ("HL3"); Footprint = "C0603D"; UniqueID = "\CSFTWTFT" ("\CSFTWTFT")
+Change component parameters: Designator = "HL4" ("HL4"); Footprint = "C0603D"; UniqueID = "\OQYOISUU" ("\OQYOISUU")
+Change component parameters: Designator = "HL5" ("HL5"); Footprint = "C0603D"; UniqueID = "\PSMKTATH" ("\PSMKTATH")
+Added Pin To Net: NetName=NetHL5_1 Pin=R37-1
+Added Pin To Net: NetName=NetHL4_1 Pin=R39-1
+Added Pin To Net: NetName=NetHL2_1 Pin=R43-2
+Added Pin To Net: NetName=NetHL1_1 Pin=R44-2
+Change Net Name : Old Net Name=NetHL1_1 New Net Name=NetHL5_2
+Change Net Name : Old Net Name=NetHL2_1 New Net Name=NetHL4_2
+Change Net Name : Old Net Name=NetHL3_1 New Net Name=NetHL3_2
+Change Net Name : Old Net Name=NetHL4_1 New Net Name=NetHL2_2
+Change Net Name : Old Net Name=NetHL5_1 New Net Name=NetHL1_2

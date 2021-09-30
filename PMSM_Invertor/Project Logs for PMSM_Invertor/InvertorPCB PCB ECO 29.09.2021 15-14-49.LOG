@@ -1,0 +1,33 @@
+Change Component Comment : Designator=DA2 Old Comment=IR2010SPFB New Comment=IR2010PFB
+Change Component Comment : Designator=DA5 Old Comment=IR2010SPFB New Comment=IR2010PFB
+Change Component Comment : Designator=DA7 Old Comment=IR2010SPFB New Comment=IR2010PFB
+Added Member To Class: ClassName=bridge Member=Component C4 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C10 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C12 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C14 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C15 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C16 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C20
+Added Member To Class: ClassName=bridge Member=Component C21 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C28 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C29 Capacitor
+Added Member To Class: ClassName=bridge Member=Component DA1 AD623ARZ
+Added Member To Class: ClassName=bridge Member=Component DA2 IR2010PFB
+Added Member To Class: ClassName=bridge Member=Component R4 Resistor
+Added Member To Class: ClassName=bridge Member=Component R6 Resistor
+Added Member To Class: ClassName=bridge Member=Component R7 Resistor
+Added Member To Class: ClassName=bridge Member=Component R9 Resistor
+Added Member To Class: ClassName=bridge Member=Component R11 Resistor
+Added Member To Class: ClassName=bridge Member=Component R12 Resistor
+Added Member To Class: ClassName=bridge Member=Component R20 Resistor
+Added Member To Class: ClassName=bridge Member=Component R22 Resistor
+Added Member To Class: ClassName=bridge Member=Component R23 Resistor
+Added Member To Class: ClassName=bridge Member=Component R24 Resistor
+Added Member To Class: ClassName=bridge Member=Component R30 Resistor
+Added Member To Class: ClassName=bridge Member=Component R31
+Added Member To Class: ClassName=bridge Member=Component R35 Resistor
+Added Member To Class: ClassName=bridge Member=Component R37 Resistor
+Added Member To Class: ClassName=bridge Member=Component R39 Resistor
+Added Member To Class: ClassName=bridge Member=Component R40 Resistor
+Added Member To Class: ClassName=bridge Member=Component VT2 IRFP4710PBF
+Added Member To Class: ClassName=bridge Member=Component X6 PLS-2x5

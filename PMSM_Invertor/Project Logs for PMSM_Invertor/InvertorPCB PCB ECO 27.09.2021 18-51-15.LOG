@@ -1,0 +1,788 @@
+Removed Pin From Net: NetName=Power_GND Pin=C5-2
+Removed Pin From Net: NetName=Power_GND Pin=C6-2
+Removed Pin From Net: NetName=Power_GND Pin=C7-2
+Removed Pin From Net: NetName=Power_GND Pin=C8-1
+Removed Pin From Net: NetName=Power_GND Pin=C9-1
+Removed Pin From Net: NetName=NetC12_2 Pin=C12-2
+Removed Pin From Net: NetName=NetC12_2 Pin=C13-1
+Removed Pin From Net: NetName=Power_GND Pin=C16-1
+Removed Pin From Net: NetName=+12 Pin=C16-2
+Removed Pin From Net: NetName=Power_GND Pin=C17-1
+Removed Pin From Net: NetName=+VM Pin=C17-2
+Removed Pin From Net: NetName=OutC Pin=C18-1
+Removed Pin From Net: NetName=NetC18_2 Pin=C18-2
+Removed Pin From Net: NetName=NetC18_2 Pin=C19-1
+Removed Pin From Net: NetName=OutC Pin=C19-2
+Removed Pin From Net: NetName=Power_GND Pin=C22-1
+Removed Pin From Net: NetName=+12 Pin=C22-2
+Removed Pin From Net: NetName=Power_GND Pin=C23-1
+Removed Pin From Net: NetName=+VM Pin=C23-2
+Removed Pin From Net: NetName=NetC24_1 Pin=C24-1
+Removed Pin From Net: NetName=NetC24_2 Pin=C24-2
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=+5 Pin=C25-2
+Removed Pin From Net: NetName=+5 Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=C26-2
+Removed Pin From Net: NetName=NetC24_1 Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C27-2
+Removed Pin From Net: NetName=NetC28_1 Pin=C28-1
+Removed Pin From Net: NetName=GND Pin=C28-2
+Removed Pin From Net: NetName=NetC29_1 Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=ext3 Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=NetC31_1 Pin=C31-1
+Removed Pin From Net: NetName=ext3 Pin=C31-2
+Removed Pin From Net: NetName=NetC32_1 Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=NetC33_1 Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=NetC34_1 Pin=C34-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=+5 Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Pin From Net: NetName=ext3 Pin=C38-1
+Removed Pin From Net: NetName=GND Pin=C38-2
+Removed Pin From Net: NetName=GND Pin=C39-1
+Removed Pin From Net: NetName=ext3 Pin=C39-2
+Removed Pin From Net: NetName=ext3 Pin=C40-1
+Removed Pin From Net: NetName=GND Pin=C40-2
+Removed Pin From Net: NetName=ext3 Pin=C41-1
+Removed Pin From Net: NetName=GND Pin=C41-2
+Removed Pin From Net: NetName=ext3 Pin=C42-1
+Removed Pin From Net: NetName=GND Pin=C42-2
+Removed Pin From Net: NetName=ext3 Pin=C43-1
+Removed Pin From Net: NetName=GND Pin=C43-2
+Removed Pin From Net: NetName=NetC44_1 Pin=C44-1
+Removed Pin From Net: NetName=NetC44_2 Pin=C44-2
+Removed Pin From Net: NetName=NetC45_1 Pin=C45-1
+Removed Pin From Net: NetName=NetC45_2 Pin=C45-2
+Removed Pin From Net: NetName=+12 Pin=C46-1
+Removed Pin From Net: NetName=Power_GND Pin=C46-2
+Removed Pin From Net: NetName=NetC47_1 Pin=C47-1
+Removed Pin From Net: NetName=Power_GND Pin=C47-2
+Removed Pin From Net: NetName=+VM Pin=C48-1
+Removed Pin From Net: NetName=Power_GND Pin=C48-2
+Removed Pin From Net: NetName=+VM Pin=C49-1
+Removed Pin From Net: NetName=Power_GND Pin=C49-2
+Removed Pin From Net: NetName=+VM Pin=C50-1
+Removed Pin From Net: NetName=Power_GND Pin=C50-2
+Removed Pin From Net: NetName=+VM Pin=C51-1
+Removed Pin From Net: NetName=Power_GND Pin=C51-2
+Removed Pin From Net: NetName=+12 Pin=C53-1
+Removed Pin From Net: NetName=Power_GND Pin=C53-2
+Removed Pin From Net: NetName=+VM Pin=C54-1
+Removed Pin From Net: NetName=Power_GND Pin=C54-2
+Removed Pin From Net: NetName=+VM Pin=C55-1
+Removed Pin From Net: NetName=Power_GND Pin=C55-2
+Removed Pin From Net: NetName=+12 Pin=C57-1
+Removed Pin From Net: NetName=Power_GND Pin=C57-2
+Removed Pin From Net: NetName=+VM Pin=C58-1
+Removed Pin From Net: NetName=Power_GND Pin=C58-2
+Removed Pin From Net: NetName=+VM Pin=C59-1
+Removed Pin From Net: NetName=Power_GND Pin=C59-2
+Removed Pin From Net: NetName=CAN_TX Pin=can1-1
+Removed Pin From Net: NetName=GND Pin=can1-2
+Removed Pin From Net: NetName=+5 Pin=can1-3
+Removed Pin From Net: NetName=CAN_RX Pin=can1-4
+Removed Pin From Net: NetName=Power_GND Pin=DA1-2
+Removed Pin From Net: NetName=Current_A Pin=DA1-3
+Removed Pin From Net: NetName=AH Pin=DA2-1
+Removed Pin From Net: NetName=AL Pin=DA2-2
+Removed Pin From Net: NetName=Power_GND Pin=DA2-3
+Removed Pin From Net: NetName=+12 Pin=DA2-5
+Removed Pin From Net: NetName=NetC1_2 Pin=DA2-8
+Removed Pin From Net: NetName=Power_GND Pin=DA4-2
+Removed Pin From Net: NetName=BH Pin=DA5-1
+Removed Pin From Net: NetName=BL Pin=DA5-2
+Removed Pin From Net: NetName=Power_GND Pin=DA5-3
+Removed Pin From Net: NetName=+12 Pin=DA5-5
+Removed Pin From Net: NetName=NetC12_2 Pin=DA5-8
+Removed Pin From Net: NetName=CH Pin=DA7-1
+Removed Pin From Net: NetName=CL Pin=DA7-2
+Removed Pin From Net: NetName=Power_GND Pin=DA7-3
+Removed Pin From Net: NetName=+12 Pin=DA7-5
+Removed Pin From Net: NetName=OutC Pin=DA7-6
+Removed Pin From Net: NetName=NetC18_2 Pin=DA7-8
+Removed Pin From Net: NetName=ext3 Pin=DD1-4
+Removed Pin From Net: NetName=GND Pin=DD1-7
+Removed Pin From Net: NetName=GND Pin=DD1-9
+Removed Pin From Net: NetName=GND Pin=DD1-10
+Removed Pin From Net: NetName=+5 Pin=DD1-11
+Removed Pin From Net: NetName=ext3 Pin=DD1-17
+Removed Pin From Net: NetName=GND Pin=DD1-18
+Removed Pin From Net: NetName=ext3 Pin=DD1-19
+Removed Pin From Net: NetName=+5 Pin=DD1-20
+Removed Pin From Net: NetName=GND Pin=DD1-21
+Removed Pin From Net: NetName=GND Pin=DD1-22
+Removed Pin From Net: NetName=GND Pin=DD1-23
+Removed Pin From Net: NetName=GND Pin=DD1-25
+Removed Pin From Net: NetName=GND Pin=DD1-26
+Removed Pin From Net: NetName=GND Pin=HL1-2
+Removed Pin From Net: NetName=GND Pin=HL2-2
+Removed Pin From Net: NetName=GND Pin=HL3-2
+Removed Pin From Net: NetName=GND Pin=HL4-2
+Removed Pin From Net: NetName=GND Pin=HL5-2
+Removed Pin From Net: NetName=ext3 Pin=L1-1
+Removed Pin From Net: NetName=NetC44_2 Pin=L2-1
+Removed Pin From Net: NetName=+12 Pin=L2-2
+Removed Pin From Net: NetName=NetC45_2 Pin=L3-1
+Removed Pin From Net: NetName=NetC47_1 Pin=L3-2
+Removed Pin From Net: NetName=+12 Pin=L4-2
+Removed Pin From Net: NetName=+12 Pin=L5-2
+Removed Pin From Net: NetName=Current_A Pin=R2-1
+Removed Pin From Net: NetName=Power_GND Pin=R2-2
+Removed Pin From Net: NetName=Current_A Pin=R3-1
+Removed Pin From Net: NetName=Power_GND Pin=R3-2
+Removed Pin From Net: NetName=NetR4_1 Pin=R6-1
+Removed Pin From Net: NetName=NetR9_1 Pin=R9-1
+Removed Pin From Net: NetName=AL Pin=R10-1
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=AH Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=Current_A Pin=R12-2
+Removed Pin From Net: NetName=Power_GND Pin=R20-2
+Removed Pin From Net: NetName=Power_GND Pin=R21-2
+Removed Pin From Net: NetName=NetR19_1 Pin=R22-1
+Removed Pin From Net: NetName=BL Pin=R27-1
+Removed Pin From Net: NetName=GND Pin=R27-2
+Removed Pin From Net: NetName=BH Pin=R28-1
+Removed Pin From Net: NetName=GND Pin=R28-2
+Removed Pin From Net: NetName=Current_B Pin=R29-2
+Removed Pin From Net: NetName=Current_A Pin=R32-1
+Removed Pin From Net: NetName=OutC Pin=R36-2
+Removed Pin From Net: NetName=CL Pin=R39-1
+Removed Pin From Net: NetName=GND Pin=R39-2
+Removed Pin From Net: NetName=CH Pin=R40-1
+Removed Pin From Net: NetName=GND Pin=R40-2
+Removed Pin From Net: NetName=NetR38_1 Pin=R41-1
+Removed Pin From Net: NetName=Current_C Pin=R41-2
+Removed Pin From Net: NetName=GND Pin=R42-1
+Removed Pin From Net: NetName=NetC24_2 Pin=R42-2
+Removed Pin From Net: NetName=NetC24_2 Pin=R43-1
+Removed Pin From Net: NetName=NetC24_1 Pin=R43-2
+Removed Pin From Net: NetName=GND Pin=R45-1
+Removed Pin From Net: NetName=ext3 Pin=R48-1
+Removed Pin From Net: NetName=NetC34_1 Pin=R48-2
+Removed Pin From Net: NetName=ext3 Pin=R49-1
+Removed Pin From Net: NetName=NetC33_1 Pin=R50-1
+Removed Pin From Net: NetName=D- Pin=R53-2
+Removed Pin From Net: NetName=D+ Pin=R54-2
+Removed Pin From Net: NetName=D+ Pin=R55-2
+Removed Pin From Net: NetName=ext3 Pin=R56-1
+Removed Pin From Net: NetName=ext3 Pin=R57-1
+Removed Pin From Net: NetName=Power_GND Pin=R58-1
+Removed Pin From Net: NetName=Power_GND Pin=R59-1
+Removed Pin From Net: NetName=+12 Pin=R60-2
+Removed Pin From Net: NetName=NetC47_1 Pin=R61-2
+Removed Pin From Net: NetName=Power_GND Pin=R62-1
+Removed Pin From Net: NetName=+12 Pin=R63-2
+Removed Pin From Net: NetName=Power_GND Pin=R64-1
+Removed Pin From Net: NetName=+12 Pin=R65-2
+Removed Pin From Net: NetName=ext5 Pin=S1-1
+Removed Pin From Net: NetName=+5 Pin=S1-2
+Removed Pin From Net: NetName=NetC47_1 Pin=S1-3
+Removed Pin From Net: NetName=NetC28_1 Pin=SB1-1
+Removed Pin From Net: NetName=NetC28_1 Pin=SB1-1
+Removed Pin From Net: NetName=GND Pin=SB1-2
+Removed Pin From Net: NetName=GND Pin=SB1-2
+Removed Pin From Net: NetName=NetC31_1 Pin=SB2-1
+Removed Pin From Net: NetName=NetC31_1 Pin=SB2-1
+Removed Pin From Net: NetName=ext3 Pin=SB2-2
+Removed Pin From Net: NetName=ext3 Pin=SB2-2
+Removed Pin From Net: NetName=NetC34_1 Pin=SB3-1
+Removed Pin From Net: NetName=NetC34_1 Pin=SB3-1
+Removed Pin From Net: NetName=GND Pin=SB3-2
+Removed Pin From Net: NetName=GND Pin=SB3-2
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=+5 Pin=U1-4
+Removed Pin From Net: NetName=NetC24_2 Pin=U1-5
+Removed Pin From Net: NetName=ext3 Pin=U2-6
+Removed Pin From Net: NetName=GND Pin=U2-10
+Removed Pin From Net: NetName=ext3 Pin=U2-11
+Removed Pin From Net: NetName=NetC32_1 Pin=U2-12
+Removed Pin From Net: NetName=NetC28_1 Pin=U2-14
+Removed Pin From Net: NetName=GND Pin=U2-19
+Removed Pin From Net: NetName=GND Pin=U2-20
+Removed Pin From Net: NetName=NetC29_1 Pin=U2-21
+Removed Pin From Net: NetName=ext3 Pin=U2-22
+Removed Pin From Net: NetName=GND Pin=U2-27
+Removed Pin From Net: NetName=ext3 Pin=U2-28
+Removed Pin From Net: NetName=AL Pin=U2-39
+Removed Pin From Net: NetName=AH Pin=U2-40
+Removed Pin From Net: NetName=BL Pin=U2-41
+Removed Pin From Net: NetName=BH Pin=U2-42
+Removed Pin From Net: NetName=CL Pin=U2-43
+Removed Pin From Net: NetName=CH Pin=U2-44
+Removed Pin From Net: NetName=GND Pin=U2-49
+Removed Pin From Net: NetName=ext3 Pin=U2-50
+Removed Pin From Net: NetName=NetC34_1 Pin=U2-57
+Removed Pin From Net: NetName=CAN_RX Pin=U2-70
+Removed Pin From Net: NetName=CAN_TX Pin=U2-71
+Removed Pin From Net: NetName=GND Pin=U2-74
+Removed Pin From Net: NetName=ext3 Pin=U2-75
+Removed Pin From Net: NetName=NetC31_1 Pin=U2-94
+Removed Pin From Net: NetName=GND Pin=U2-99
+Removed Pin From Net: NetName=ext3 Pin=U2-100
+Removed Pin From Net: NetName=NetC44_1 Pin=U3-1
+Removed Pin From Net: NetName=Power_GND Pin=U3-6
+Removed Pin From Net: NetName=+VM Pin=U3-7
+Removed Pin From Net: NetName=NetC44_2 Pin=U3-8
+Removed Pin From Net: NetName=NetC45_1 Pin=U4-1
+Removed Pin From Net: NetName=Power_GND Pin=U4-6
+Removed Pin From Net: NetName=+VM Pin=U4-7
+Removed Pin From Net: NetName=NetC45_2 Pin=U4-8
+Removed Pin From Net: NetName=Power_GND Pin=U5-6
+Removed Pin From Net: NetName=+VM Pin=U5-7
+Removed Pin From Net: NetName=Power_GND Pin=U6-6
+Removed Pin From Net: NetName=+VM Pin=U6-7
+Removed Pin From Net: NetName=OutA Pin=VD3-C
+Removed Pin From Net: NetName=Current_A Pin=VD5-C
+Removed Pin From Net: NetName=NetC12_2 Pin=VD6-C
+Removed Pin From Net: NetName=Current_B Pin=VD10-C
+Removed Pin From Net: NetName=NetR34_1 Pin=VD11-A
+Removed Pin From Net: NetName=NetC18_2 Pin=VD11-C
+Removed Pin From Net: NetName=OutC Pin=VD13-C
+Removed Pin From Net: NetName=Current_C Pin=VD15-C
+Removed Pin From Net: NetName=Power_GND Pin=VD16-A
+Removed Pin From Net: NetName=NetC44_2 Pin=VD16-C
+Removed Pin From Net: NetName=Power_GND Pin=VD17-A
+Removed Pin From Net: NetName=NetC45_2 Pin=VD17-C
+Removed Pin From Net: NetName=Power_GND Pin=VD18-A
+Removed Pin From Net: NetName=Power_GND Pin=VD19-A
+Removed Pin From Net: NetName=Current_A Pin=VT2-S
+Removed Pin From Net: NetName=Current_B Pin=VT4-S
+Removed Pin From Net: NetName=OutC Pin=VT5-S
+Removed Pin From Net: NetName=OutC Pin=VT6-D
+Removed Pin From Net: NetName=NetR38_1 Pin=VT6-G
+Removed Pin From Net: NetName=Current_C Pin=VT6-S
+Removed Pin From Net: NetName=Power_GND Pin=X2-1
+Removed Pin From Net: NetName=Power_GND Pin=X2-1
+Removed Pin From Net: NetName=Power_GND Pin=X2-1
+Removed Pin From Net: NetName=Power_GND Pin=X2-1
+Removed Pin From Net: NetName=Power_GND Pin=X2-1
+Removed Pin From Net: NetName=OutA Pin=X3-1
+Removed Pin From Net: NetName=OutA Pin=X3-1
+Removed Pin From Net: NetName=OutA Pin=X3-1
+Removed Pin From Net: NetName=OutA Pin=X3-1
+Removed Pin From Net: NetName=OutA Pin=X3-1
+Removed Pin From Net: NetName=+12 Pin=X6-1
+Removed Pin From Net: NetName=Power_GND Pin=X6-2
+Removed Pin From Net: NetName=+5 Pin=X7-1
+Removed Pin From Net: NetName=GND Pin=X7-2
+Removed Pin From Net: NetName=GND Pin=X9-1
+Removed Pin From Net: NetName=GND Pin=X9-2
+Removed Pin From Net: NetName=GND Pin=X9-3
+Removed Pin From Net: NetName=+5 Pin=XP6-2
+Removed Pin From Net: NetName=+5 Pin=XP6-3
+Removed Pin From Net: NetName=+5 Pin=XP6-4
+Removed Pin From Net: NetName=+5 Pin=XP6-5
+Removed Pin From Net: NetName=+5 Pin=XP6-6
+Removed Pin From Net: NetName=ext3 Pin=XP6-7
+Removed Pin From Net: NetName=ext3 Pin=XP6-8
+Removed Pin From Net: NetName=ext3 Pin=XP6-9
+Removed Pin From Net: NetName=ext3 Pin=XP6-10
+Removed Pin From Net: NetName=ext3 Pin=XP6-11
+Removed Pin From Net: NetName=GND Pin=XP6-12
+Removed Pin From Net: NetName=GND Pin=XP6-13
+Removed Pin From Net: NetName=GND Pin=XP6-14
+Removed Pin From Net: NetName=GND Pin=XP6-15
+Removed Pin From Net: NetName=GND Pin=XP6-16
+Removed Pin From Net: NetName=GND Pin=XP7-1
+Removed Pin From Net: NetName=ext5 Pin=XP7-2
+Removed Pin From Net: NetName=ext5 Pin=XP8-1
+Removed Pin From Net: NetName=D- Pin=XP8-2
+Removed Pin From Net: NetName=D+ Pin=XP8-3
+Removed Pin From Net: NetName=GND Pin=XP8-5
+Removed Pin From Net: NetName=GND Pin=XP9-1
+Removed Pin From Net: NetName=ext5 Pin=XP9-2
+Removed Pin From Net: NetName=NetC33_1 Pin=Z1-1
+Removed Pin From Net: NetName=NetC32_1 Pin=Z1-2
+Removed Member From Class: ClassName=bridge Member=X7
+Removed Member From Class: ClassName=bridge Member=X8
+Removed Member From Class: ClassName=bridge Member=X9
+Change Component Footprint: Designator=R10 Old Footprint=0402R New Footprint=2512R
+Change Component Footprint: Designator=R19 Old Footprint=0402R New Footprint=2512R
+Change Component Footprint: Designator=R27 Old Footprint=0402R New Footprint=2512R
+Change Component Footprint: Designator=R41 Old Footprint=0402R New Footprint=2512R
+Change Component Footprint: Designator=R29 Old Footprint=0402R New Footprint=C0805R
+Change Component Footprint: Designator=C18 Old Footprint=0805 New Footprint=2220—
+Change Component Footprint: Designator=C22 Old Footprint=0805 New Footprint=CAP-8x12
+Change Component Footprint: Designator=C17 Old Footprint=1210C New Footprint=0805
+Change Component Footprint: Designator=C23 Old Footprint=1210C New Footprint=1812—
+Change Component Footprint: Designator=C9 Old Footprint=1210C New Footprint=2220—
+Change Component Footprint: Designator=C13 Old Footprint=1812— New Footprint=0805
+Change Component Footprint: Designator=C19 Old Footprint=1812— New Footprint=C0603C
+Change Component Footprint: Designator=C26 Old Footprint=C0805C New Footprint=0805
+Change Component Footprint: Designator=C27 Old Footprint=C0805C New Footprint=2220—
+Change Component Footprint: Designator=C30 Old Footprint=C0805C New Footprint=C0603C
+Change Component Footprint: Designator=C25 Old Footprint=C0805C New Footprint=C1812C
+Change Component Footprint: Designator=C24 Old Footprint=C0805C New Footprint=CAP- 50-35
+Change Component Footprint: Designator=R42 Old Footprint=C0805R New Footprint=0402R
+Change Component Footprint: Designator=R43 Old Footprint=C0805R New Footprint=2512R
+Change Component Footprint: Designator=VD11 Old Footprint=D0-124AC New Footprint=DO-214AA
+Change Component Footprint: Designator=VD16 Old Footprint=DO-214AA New Footprint=D0-124AC
+Change Component Footprint: Designator=U1 Old Footprint=NCP1529ASNT1G New Footprint=LM22675MR-5.0/NOPB
+Change Component Footprint: Designator=DA2 Old Footprint=SO8 New Footprint=SOIC16
+Change Component Footprint: Designator=DA5 Old Footprint=SO8 New Footprint=SOIC16
+Change Component Footprint: Designator=DA7 Old Footprint=SO8 New Footprint=SOIC16
+Change Component Footprint: Designator=VD3 Old Footprint=SOD123 New Footprint=D0-124AC
+Change Component Footprint: Designator=VD5 Old Footprint=SOD123 New Footprint=D0-124AC
+Change Component Footprint: Designator=VD8 Old Footprint=SOD123 New Footprint=D0-124AC
+Change Component Footprint: Designator=VD10 Old Footprint=SOD123 New Footprint=D0-124AC
+Change Component Footprint: Designator=VD13 Old Footprint=SOD123 New Footprint=SOD323
+Change Component Footprint: Designator=VD15 Old Footprint=SOD123 New Footprint=SOD323
+Change Component Footprint: Designator=VD12 Old Footprint=SOD323 New Footprint=D0-124AC
+Change Component Footprint: Designator=VD14 Old Footprint=SOD323 New Footprint=D0-124AC
+Change Component Comment : Designator=C26 Old Comment= New Comment=Capacitor
+Change Component Comment : Designator=C27 Old Comment= New Comment=Capacitor
+Change Component Comment : Designator=C30 Old Comment= New Comment=Capacitor
+Change Component Comment : Designator=R42 Old Comment= New Comment=Resistor
+Change Component Comment : Designator=R43 Old Comment= New Comment=Resistor
+Change Component Comment : Designator=VD16 Old Comment= New Comment=VS-10BQ040
+Change Component Comment : Designator=VD2 Old Comment=BZX384-C12 New Comment=BZX384-C18
+Change Component Comment : Designator=VD4 Old Comment=BZX384-C12 New Comment=BZX384-C18
+Change Component Comment : Designator=VD7 Old Comment=BZX384-C12 New Comment=BZX384-C18
+Change Component Comment : Designator=VD9 Old Comment=BZX384-C12 New Comment=BZX384-C18
+Change Component Comment : Designator=VD12 Old Comment=BZX384-C12 New Comment=STPS2H100A
+Change Component Comment : Designator=VD14 Old Comment=BZX384-C12 New Comment=VS-10BQ040
+Change Component Comment : Designator=C22 Old Comment=Capacitor New Comment=
+Change Component Comment : Designator=DA2 Old Comment=IR2181STRPBF New Comment=IR2010SPFB
+Change Component Comment : Designator=DA5 Old Comment=IR2181STRPBF New Comment=IR2010SPFB
+Change Component Comment : Designator=DA7 Old Comment=IR2181STRPBF New Comment=IR2010SPFB
+Change Component Comment : Designator=VD13 Old Comment=MBR0540 New Comment=BZX384-C18
+Change Component Comment : Designator=VD15 Old Comment=MBR0540 New Comment=BZX384-C18
+Change Component Comment : Designator=VD3 Old Comment=MBR0540 New Comment=VS-10BQ040
+Change Component Comment : Designator=VD5 Old Comment=MBR0540 New Comment=VS-10BQ040
+Change Component Comment : Designator=VD8 Old Comment=MBR0540 New Comment=VS-10BQ040
+Change Component Comment : Designator=VD10 Old Comment=MBR0540 New Comment=VS-10BQ040
+Change Component Comment : Designator=U1 Old Comment=NCP1529ASNT1G New Comment=LM22675MR-5.0
+Change Component Comment : Designator=R29 Old Comment=Resistor New Comment=
+Change Component Comment : Designator=VD11 Old Comment=STPS2H100A New Comment=
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C20 NewDesignator=C28
+Change Component Designator: OldDesignator=C21 NewDesignator=C29
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R30 NewDesignator=R32
+Change Component Designator: OldDesignator=R31 NewDesignator=R33
+Change Component Designator: OldDesignator=R32 NewDesignator=R37
+Change Component Designator: OldDesignator=R33 NewDesignator=R39
+Change Component Designator: OldDesignator=R35 NewDesignator=R40
+Change Component Designator: OldDesignator=X8 NewDesignator=X6
+Change component parameters: Designator = "C9" ("C9"); Footprint = "1210C"; UniqueID = "\LAUNDCQV" ("\LAUNDCQV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8001641628"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA2" ("DA2"); Footprint = "SO8"; UniqueID = "\UTYBRTSN" ("\UTYBRTSN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ir2010s"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA5" ("DA5"); Footprint = "SO8"; UniqueID = "\AZCAPTFY" ("\AZCAPTFY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ir2010s"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DA7" ("DA7"); Footprint = "SO8"; UniqueID = "\CHQACCXM" ("\CHQACCXM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ir2010s"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "IND0488-G-E"; UniqueID = "\IVARWFWY" ("\IVARWFWY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/b82472g6223m000-22"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "22uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "NCP1529ASNT1G"; UniqueID = "\FHBZTFNR" ("\FHBZTFNR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/lm22675mr-5.0-nopb-2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD2" ("VD2"); Footprint = "SOD323"; UniqueID = "\VGKYVDOG" ("\VGKYVDOG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/bzx384-c18.115"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD3" ("VD3"); Footprint = "SOD123"; UniqueID = "\SCZEFAFI" ("\SCZEFAFI")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/10bq040"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD4" ("VD4"); Footprint = "SOD323"; UniqueID = "\DCZKQMEY" ("\DCZKQMEY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/bzx384-c18.115"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD5" ("VD5"); Footprint = "SOD123"; UniqueID = "\VEBGBROB" ("\VEBGBROB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/10bq040"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD7" ("VD7"); Footprint = "SOD323"; UniqueID = "\LEWYUFNK" ("\LEWYUFNK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/bzx384-c18.115"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD8" ("VD8"); Footprint = "SOD123"; UniqueID = "\GBHGNOBC" ("\GBHGNOBC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/10bq040"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD9" ("VD9"); Footprint = "SOD323"; UniqueID = "\KFREBDYY" ("\KFREBDYY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/bzx384-c18.115"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD10" ("VD10"); Footprint = "SOD123"; UniqueID = "\EBXTJIYK" ("\EBXTJIYK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/10bq040"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD12" ("VD12"); Footprint = "SOD323"; UniqueID = "\BJRNYBZG" ("\BJRNYBZG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/stps2h100a-2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD13" ("VD13"); Footprint = "SOD123"; UniqueID = "\KANDEGFD" ("\KANDEGFD")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/bzx384-c18.115"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD14" ("VD14"); Footprint = "SOD323"; UniqueID = "\DJJRCUVT" ("\DJJRCUVT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/10bq040"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD15" ("VD15"); Footprint = "SOD123"; UniqueID = "\LXYVGLJE" ("\LXYVGLJE")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/bzx384-c18.115"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD11" ("VD11"); Footprint = "D0-124AC"; UniqueID = "\JFGCUCTF" ("\JFGCUCTF")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/sk16-diotec"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD16" ("VD16"); Footprint = "DO-214AA"; UniqueID = "\MBVOQPSL" ("\MBVOQPSL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/10bq040"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "1812—"; UniqueID = "\TASZAVTM" ("\TASZAVTM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm219f51h104z"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17" ("C17"); Footprint = "1210C"; UniqueID = "\ANJQXXBX" ("\ANJQXXBX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm21bf51e474z"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "0805"; UniqueID = "\OZVEJIIQ" ("\OZVEJIIQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8001641628"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "1812—"; UniqueID = "\AORONTLB" ("\AORONTLB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000591947"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23" ("C23"); Footprint = "1210C"; UniqueID = "\IKJRNASN" ("\IKJRNASN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000144596"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24" ("C24"); Footprint = "C0805C"; UniqueID = "\MIOTEUEC" ("\MIOTEUEC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565851"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25" ("C25"); Footprint = "C0805C"; UniqueID = "\TFJIOXRC" ("\TFJIOXRC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000144596"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "0805"; UniqueID = "\NVDJJDWK" ("\NVDJJDWK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565758"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "C0805C"; UniqueID = "\AKYTOABC" ("\AKYTOABC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm21bf51e474z"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.47 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "C0805C"; UniqueID = "\HFPGDOZU" ("\HFPGDOZU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8001641628"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "C0805C"; UniqueID = "\OASEILEZ" ("\OASEILEZ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000591947"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 ÏÍ‘"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "0402R"; UniqueID = "\YTYMLCUH" ("\YTYMLCUH")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "43ŒÏ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R19" ("R19"); Footprint = "0402R"; UniqueID = "\DZLLUWBV" ("\DZLLUWBV")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "43ŒÏ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R27" ("R27"); Footprint = "0402R"; UniqueID = "\KFYOFNFX" ("\KFYOFNFX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "43ŒÏ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R41" ("R41"); Footprint = "0402R"; UniqueID = "\TOOMYCGB" ("\TOOMYCGB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190080"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "43ŒÏ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "0402R"; UniqueID = "\WHPVLZYR" ("\WHPVLZYR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079487"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "1.1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R42" ("R42"); Footprint = "C0805R"; UniqueID = "\RAMTOCHG" ("\RAMTOCHG")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000189664"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.062"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10ÍŒÏ"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R43" ("R43"); Footprint = "C0805R"; UniqueID = "\SAKCZNQY" ("\SAKCZNQY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190063"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20ŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=C10(C0603C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000591947"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C14(1812—)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000144596"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.2 ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=C20(C0805C)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm216r71h103k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C21(0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/grm219f51h104z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 ÏÍ‘"; VariantName = "[No Variations]"
+Added Component: Designator=R4(2512R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "43ŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R7(2512R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20ŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R12(2512R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20ŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0402R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000189664"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10ÍŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R23(2512R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20ŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R30(2512R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20ŒÏ"; VariantName = "[No Variations]"
+Added Component: Designator=R31(C0805R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000079513"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "9.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R35(2512R)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000190080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1¬Ú"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "43ŒÏ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CAN_RX Pin=C5-2
+Added Pin To Net: NetName=CAN_RX Pin=C6-2
+Added Pin To Net: NetName=CAN_RX Pin=C7-2
+Added Pin To Net: NetName=CAN_RX Pin=C8-1
+Added Pin To Net: NetName=CAN_RX Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=ext3 Pin=C10-2
+Added Pin To Net: NetName=Current_B Pin=C13-1
+Added Pin To Net: NetName=NetC47_1 Pin=C13-2
+Added Pin To Net: NetName=NetC47_1 Pin=C14-1
+Added Pin To Net: NetName=Current_B Pin=C14-2
+Added Pin To Net: NetName=CAN_RX Pin=C17-1
+Added Pin To Net: NetName=+12 Pin=C17-2
+Added Pin To Net: NetName=CAN_RX Pin=C18-1
+Added Pin To Net: NetName=+VM Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=ext3 Pin=C19-2
+Added Pin To Net: NetName=NetC45_2 Pin=C20-1
+Added Pin To Net: NetName=NetC45_1 Pin=C20-2
+Added Pin To Net: NetName=Current_C Pin=C21-1
+Added Pin To Net: NetName=NetC44_2 Pin=C21-2
+Added Pin To Net: NetName=+12 Pin=C22-1
+Added Pin To Net: NetName=CAN_RX Pin=C22-2
+Added Pin To Net: NetName=NetC44_2 Pin=C23-1
+Added Pin To Net: NetName=Current_C Pin=C23-2
+Added Pin To Net: NetName=+VM Pin=C24-1
+Added Pin To Net: NetName=CAN_RX Pin=C24-2
+Added Pin To Net: NetName=+VM Pin=C25-1
+Added Pin To Net: NetName=CAN_RX Pin=C25-2
+Added Pin To Net: NetName=CAN_RX Pin=C26-1
+Added Pin To Net: NetName=+12 Pin=C26-2
+Added Pin To Net: NetName=CAN_RX Pin=C27-1
+Added Pin To Net: NetName=+VM Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=ext3 Pin=C30-2
+Added Pin To Net: NetName=CAN_TX Pin=DA1-2
+Added Pin To Net: NetName=OutA Pin=DA1-3
+Added Pin To Net: NetName=NetC44_1 Pin=DA2-1
+Added Pin To Net: NetName=CAN_RX Pin=DA2-2
+Added Pin To Net: NetName=+12 Pin=DA2-3
+Added Pin To Net: NetName=NetC1_2 Pin=DA2-7
+Added Pin To Net: NetName=NetC34_1 Pin=DA2-8
+Added Pin To Net: NetName=ext3 Pin=DA2-11
+Added Pin To Net: NetName=AH Pin=DA2-12
+Added Pin To Net: NetName=Overcurrent_signal Pin=DA2-13
+Added Pin To Net: NetName=AL Pin=DA2-14
+Added Pin To Net: NetName=GND Pin=DA2-15
+Added Pin To Net: NetName=OutC Pin=DA4-2
+Added Pin To Net: NetName=NetC33_1 Pin=DA5-1
+Added Pin To Net: NetName=CAN_RX Pin=DA5-2
+Added Pin To Net: NetName=+12 Pin=DA5-3
+Added Pin To Net: NetName=Current_B Pin=DA5-6
+Added Pin To Net: NetName=NetC47_1 Pin=DA5-7
+Added Pin To Net: NetName=NetC32_1 Pin=DA5-8
+Added Pin To Net: NetName=ext3 Pin=DA5-11
+Added Pin To Net: NetName=BH Pin=DA5-12
+Added Pin To Net: NetName=Overcurrent_signal Pin=DA5-13
+Added Pin To Net: NetName=BL Pin=DA5-14
+Added Pin To Net: NetName=GND Pin=DA5-15
+Added Pin To Net: NetName=NetC31_1 Pin=DA7-1
+Added Pin To Net: NetName=CAN_RX Pin=DA7-2
+Added Pin To Net: NetName=+12 Pin=DA7-3
+Added Pin To Net: NetName=Current_C Pin=DA7-6
+Added Pin To Net: NetName=NetC44_2 Pin=DA7-7
+Added Pin To Net: NetName=NetC29_1 Pin=DA7-8
+Added Pin To Net: NetName=ext3 Pin=DA7-11
+Added Pin To Net: NetName=CH Pin=DA7-12
+Added Pin To Net: NetName=Overcurrent_signal Pin=DA7-13
+Added Pin To Net: NetName=CL Pin=DA7-14
+Added Pin To Net: NetName=GND Pin=DA7-15
+Added Pin To Net: NetName=NetC45_1 Pin=L1-1
+Added Pin To Net: NetName=+12 Pin=L1-2
+Added Pin To Net: NetName=OutA Pin=R2-1
+Added Pin To Net: NetName=CAN_TX Pin=R2-2
+Added Pin To Net: NetName=OutA Pin=R3-1
+Added Pin To Net: NetName=CAN_TX Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetC34_1 Pin=R4-2
+Added Pin To Net: NetName=NetC28_1 Pin=R7-1
+Added Pin To Net: NetName=NetC34_1 Pin=R7-2
+Added Pin To Net: NetName=NetR9_1 Pin=R10-1
+Added Pin To Net: NetName=NetC44_1 Pin=R10-2
+Added Pin To Net: NetName=CAN_RX Pin=R11-2
+Added Pin To Net: NetName=NetC24_2 Pin=R12-1
+Added Pin To Net: NetName=NetC44_1 Pin=R12-2
+Added Pin To Net: NetName=NetC32_1 Pin=R19-2
+Added Pin To Net: NetName=NetR19_1 Pin=R20-1
+Added Pin To Net: NetName=Current_B Pin=R20-2
+Added Pin To Net: NetName=OutC Pin=R21-2
+Added Pin To Net: NetName=OutC Pin=R22-2
+Added Pin To Net: NetName=NetC24_1 Pin=R23-1
+Added Pin To Net: NetName=NetC32_1 Pin=R23-2
+Added Pin To Net: NetName=NetC18_2 Pin=R27-1
+Added Pin To Net: NetName=NetC33_1 Pin=R27-2
+Added Pin To Net: NetName=NetC18_2 Pin=R28-1
+Added Pin To Net: NetName=CAN_RX Pin=R28-2
+Added Pin To Net: NetName=CAN_RX Pin=R29-1
+Added Pin To Net: NetName=NetC12_2 Pin=R29-2
+Added Pin To Net: NetName=ext5 Pin=R30-1
+Added Pin To Net: NetName=NetC33_1 Pin=R30-2
+Added Pin To Net: NetName=NetC12_2 Pin=R31-1
+Added Pin To Net: NetName=+12 Pin=R31-2
+Added Pin To Net: NetName=D- Pin=R35-1
+Added Pin To Net: NetName=NetC29_1 Pin=R35-2
+Added Pin To Net: NetName=D- Pin=R36-1
+Added Pin To Net: NetName=Current_C Pin=R36-2
+Added Pin To Net: NetName=OutA Pin=R37-1
+Added Pin To Net: NetName=NetC29_1 Pin=R38-2
+Added Pin To Net: NetName=D+ Pin=R41-1
+Added Pin To Net: NetName=NetC31_1 Pin=R41-2
+Added Pin To Net: NetName=D+ Pin=R42-1
+Added Pin To Net: NetName=CAN_RX Pin=R42-2
+Added Pin To Net: NetName=Current_A Pin=R43-1
+Added Pin To Net: NetName=NetC31_1 Pin=R43-2
+Added Pin To Net: NetName=NetC45_2 Pin=U1-1
+Added Pin To Net: NetName=NetC12_2 Pin=U1-4
+Added Pin To Net: NetName=CAN_RX Pin=U1-6
+Added Pin To Net: NetName=+VM Pin=U1-7
+Added Pin To Net: NetName=NetC45_1 Pin=U1-8
+Added Pin To Net: NetName=CAN_RX Pin=VD2-A
+Added Pin To Net: NetName=NetR4_1 Pin=VD3-A
+Added Pin To Net: NetName=NetC28_1 Pin=VD3-C
+Added Pin To Net: NetName=CAN_RX Pin=VD4-A
+Added Pin To Net: NetName=NetR9_1 Pin=VD5-A
+Added Pin To Net: NetName=NetC24_2 Pin=VD5-C
+Added Pin To Net: NetName=NetC47_1 Pin=VD6-C
+Added Pin To Net: NetName=CAN_RX Pin=VD7-A
+Added Pin To Net: NetName=NetR19_1 Pin=VD8-A
+Added Pin To Net: NetName=NetC24_1 Pin=VD8-C
+Added Pin To Net: NetName=CAN_RX Pin=VD9-A
+Added Pin To Net: NetName=NetC18_2 Pin=VD9-C
+Added Pin To Net: NetName=NetC18_2 Pin=VD10-A
+Added Pin To Net: NetName=ext5 Pin=VD10-C
+Added Pin To Net: NetName=CAN_RX Pin=VD11-A
+Added Pin To Net: NetName=NetC45_1 Pin=VD11-C
+Added Pin To Net: NetName=NetR34_1 Pin=VD12-A
+Added Pin To Net: NetName=NetC44_2 Pin=VD12-C
+Added Pin To Net: NetName=CAN_RX Pin=VD13-A
+Added Pin To Net: NetName=D- Pin=VD13-C
+Added Pin To Net: NetName=D- Pin=VD14-A
+Added Pin To Net: NetName=CAN_RX Pin=VD15-A
+Added Pin To Net: NetName=D+ Pin=VD15-C
+Added Pin To Net: NetName=D+ Pin=VD16-A
+Added Pin To Net: NetName=Current_A Pin=VD16-C
+Added Pin To Net: NetName=CAN_RX Pin=VT2-S
+Added Pin To Net: NetName=Current_B Pin=VT3-S
+Added Pin To Net: NetName=Current_B Pin=VT4-D
+Added Pin To Net: NetName=NetC18_2 Pin=VT4-G
+Added Pin To Net: NetName=CAN_RX Pin=VT4-S
+Added Pin To Net: NetName=D- Pin=VT5-G
+Added Pin To Net: NetName=Current_C Pin=VT5-S
+Added Pin To Net: NetName=Current_C Pin=VT6-D
+Added Pin To Net: NetName=D+ Pin=VT6-G
+Added Pin To Net: NetName=CAN_RX Pin=VT6-S
+Added Pin To Net: NetName=CAN_RX Pin=X2-1
+Added Pin To Net: NetName=CAN_RX Pin=X2-1
+Added Pin To Net: NetName=CAN_RX Pin=X2-1
+Added Pin To Net: NetName=CAN_RX Pin=X2-1
+Added Pin To Net: NetName=CAN_RX Pin=X2-1
+Added Pin To Net: NetName=CAN_TX Pin=X3-1
+Added Pin To Net: NetName=CAN_TX Pin=X3-1
+Added Pin To Net: NetName=CAN_TX Pin=X3-1
+Added Pin To Net: NetName=CAN_TX Pin=X3-1
+Added Pin To Net: NetName=CAN_TX Pin=X3-1
+Added Pin To Net: NetName=Power_GND Pin=X4-1
+Added Pin To Net: NetName=Power_GND Pin=X4-1
+Added Pin To Net: NetName=Power_GND Pin=X4-1
+Added Pin To Net: NetName=Power_GND Pin=X4-1
+Added Pin To Net: NetName=Power_GND Pin=X4-1
+Change Net Name : Old Net Name=CAN_RX New Net Name=Power_GND
+Change Net Name : Old Net Name=CAN_TX New Net Name=OutA
+Change Net Name : Old Net Name=Current_A New Net Name=NetR43_1
+Change Net Name : Old Net Name=Current_B New Net Name=I_B
+Change Net Name : Old Net Name=Current_C New Net Name=I_C
+Change Net Name : Old Net Name=D+ New Net Name=NetR41_1
+Change Net Name : Old Net Name=D- New Net Name=NetR35_1
+Change Net Name : Old Net Name=ext3 New Net Name=+3.3
+Change Net Name : Old Net Name=ext5 New Net Name=NetR30_1
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetR27_1
+Change Net Name : Old Net Name=NetC20_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetC29_1 New Net Name=NetDA7_8
+Change Net Name : Old Net Name=NetC31_1 New Net Name=NetDA7_1
+Change Net Name : Old Net Name=NetC32_1 New Net Name=NetDA5_8
+Change Net Name : Old Net Name=NetC33_1 New Net Name=NetDA5_1
+Change Net Name : Old Net Name=NetC34_1 New Net Name=NetDA2_8
+Change Net Name : Old Net Name=NetC44_1 New Net Name=NetDA2_1
+Change Net Name : Old Net Name=NetC44_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC45_1 New Net Name=NetC20_2
+Change Net Name : Old Net Name=NetC45_2 New Net Name=NetC20_1
+Change Net Name : Old Net Name=NetC47_1 New Net Name=NetC13_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=OutA New Net Name=I_A
+Change Net Name : Old Net Name=Power_GND New Net Name=OutB
+Added Member To Class: ClassName=bridge Member=Component C24
+Added Member To Class: ClassName=bridge Member=Component C25
+Added Member To Class: ClassName=bridge Member=Component C26 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C27 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C28 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C29 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C30 Capacitor
+Added Member To Class: ClassName=bridge Member=Component L1
+Added Member To Class: ClassName=bridge Member=Component R42 Resistor
+Added Member To Class: ClassName=bridge Member=Component R43 Resistor
+Added Member To Class: ClassName=bridge Member=Component U1 LM22675MR-5.0
+Added Member To Class: ClassName=bridge Member=Component VD16 VS-10BQ040
+Added Member To Class: ClassName=bridge Member=Component X2 Connector-1
+Added Room: Name=bridge

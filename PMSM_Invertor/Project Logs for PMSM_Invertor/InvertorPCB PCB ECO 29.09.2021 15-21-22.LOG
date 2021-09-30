@@ -1,0 +1,6 @@
+Change Component Comment : Designator=DA2 Old Comment=IR2010SPFB New Comment=IR2010PFB
+Change Component Comment : Designator=DA5 Old Comment=IR2010SPFB New Comment=IR2010PFB
+Change Component Comment : Designator=DA7 Old Comment=IR2010SPFB New Comment=IR2010PFB
+Added Member To Class: ClassName=bridge Member=Component DA2 IR2010PFB
+Added Member To Class: ClassName=bridge Member=Component DA5 IR2010PFB
+Added Member To Class: ClassName=bridge Member=Component DA7 IR2010PFB

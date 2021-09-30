@@ -1,0 +1,42 @@
+Added Component: Designator=DA2(DIP14)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ir2010s"; VariantName = "[No Variations]"
+Added Component: Designator=DA5(DIP14)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ir2010s"; VariantName = "[No Variations]"
+Added Component: Designator=DA7(DIP14)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Product link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product/ir2010s"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA2_1 Pin=DA2-1
+Added Pin To Net: NetName=Power_GND Pin=DA2-2
+Added Pin To Net: NetName=+12 Pin=DA2-3
+Added Pin To Net: NetName=I_A Pin=DA2-6
+Added Pin To Net: NetName=NetC1_2 Pin=DA2-7
+Added Pin To Net: NetName=NetDA2_8 Pin=DA2-8
+Added Pin To Net: NetName=+3.3 Pin=DA2-11
+Added Pin To Net: NetName=AH Pin=DA2-12
+Added Pin To Net: NetName=Overcurrent_signal Pin=DA2-13
+Added Pin To Net: NetName=AL Pin=DA2-14
+Added Pin To Net: NetName=NetDA5_1 Pin=DA5-1
+Added Pin To Net: NetName=Power_GND Pin=DA5-2
+Added Pin To Net: NetName=+12 Pin=DA5-3
+Added Pin To Net: NetName=I_B Pin=DA5-6
+Added Pin To Net: NetName=NetC13_2 Pin=DA5-7
+Added Pin To Net: NetName=NetDA5_8 Pin=DA5-8
+Added Pin To Net: NetName=+3.3 Pin=DA5-11
+Added Pin To Net: NetName=BH Pin=DA5-12
+Added Pin To Net: NetName=Overcurrent_signal Pin=DA5-13
+Added Pin To Net: NetName=BL Pin=DA5-14
+Added Pin To Net: NetName=NetDA7_1 Pin=DA7-1
+Added Pin To Net: NetName=Power_GND Pin=DA7-2
+Added Pin To Net: NetName=+12 Pin=DA7-3
+Added Pin To Net: NetName=I_C Pin=DA7-6
+Added Pin To Net: NetName=NetC21_2 Pin=DA7-7
+Added Pin To Net: NetName=NetDA7_8 Pin=DA7-8
+Added Pin To Net: NetName=+3.3 Pin=DA7-11
+Added Pin To Net: NetName=CH Pin=DA7-12
+Added Pin To Net: NetName=Overcurrent_signal Pin=DA7-13
+Added Pin To Net: NetName=CL Pin=DA7-14
+Added Member To Class: ClassName=bridge Member=Component DA2 IR2010PFB
+Added Member To Class: ClassName=bridge Member=Component DA5 IR2010PFB
+Added Member To Class: ClassName=bridge Member=Component DA7 IR2010PFB

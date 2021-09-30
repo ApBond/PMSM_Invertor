@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=C45 Old Footprint=CAPAE-F New Footprint=CAP-8x12
+Change Component Footprint: Designator=C46 Old Footprint=CAPAE-F New Footprint=CAP-8x12
+Change Component Footprint: Designator=C52 Old Footprint=CAPAE-F New Footprint=CAP-8x12
+Change Component Footprint: Designator=C56 Old Footprint=CAPAE-F New Footprint=CAP-8x12
+Change component parameters: Designator = "C45" ("C45"); Footprint = "CAPAE-F"; UniqueID = "\MRMUNISP" ("\MRMUNISP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565758"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C46" ("C46"); Footprint = "CAPAE-F"; UniqueID = "\QLYJVIHL" ("\QLYJVIHL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565758"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C52" ("C52"); Footprint = "CAPAE-F"; UniqueID = "\DPKVWXRN" ("\DPKVWXRN")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565758"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "220uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C56" ("C56"); Footprint = "CAPAE-F"; UniqueID = "\QDEIEPNU" ("\QDEIEPNU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565758"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "220uF"; VariantName = "[No Variations]"

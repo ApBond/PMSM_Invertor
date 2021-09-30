@@ -1,0 +1,26 @@
+Added Component: Designator=HL1(C0603D)
+Added Component: Designator=HL2(C0603D)
+Added Component: Designator=HL3(C0603D)
+Added Component: Designator=HL4(C0603D)
+Added Component: Designator=HL5(C0603D)
+Added Pin To Net: NetName=NetHL1_1 Pin=HL1-1
+Added Pin To Net: NetName=GND Pin=HL1-2
+Added Pin To Net: NetName=NetHL2_1 Pin=HL2-1
+Added Pin To Net: NetName=GND Pin=HL2-2
+Added Pin To Net: NetName=GND Pin=HL3-2
+Added Pin To Net: NetName=GND Pin=HL4-2
+Added Pin To Net: NetName=GND Pin=HL5-2
+Added Pin To Net: NetName=NetHL3_1 Pin=HL3-1
+Added Pin To Net: NetName=NetHL3_1 Pin=R42-2
+Added Net: Name=NetHL3_1
+Added Pin To Net: NetName=NetHL4_1 Pin=HL4-1
+Added Pin To Net: NetName=NetHL4_1 Pin=R43-2
+Added Net: Name=NetHL4_1
+Added Pin To Net: NetName=NetHL5_1 Pin=HL5-1
+Added Pin To Net: NetName=NetHL5_1 Pin=R44-2
+Added Net: Name=NetHL5_1
+Added Member To Class: ClassName=Sheet1 Member=Component HL1 LED
+Added Member To Class: ClassName=Sheet1 Member=Component HL2 LED
+Added Member To Class: ClassName=Sheet1 Member=Component HL3 LED
+Added Member To Class: ClassName=Sheet1 Member=Component HL4 LED
+Added Member To Class: ClassName=Sheet1 Member=Component HL5 LED

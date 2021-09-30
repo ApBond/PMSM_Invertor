@@ -1,0 +1,112 @@
+Added Component: Designator=U2(LQFP100-14x14mm)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F103V8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Updates_to_database_2020-10-19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PE2 Pin=U2-1
+Added Pin To Net: NetName=PE3 Pin=U2-2
+Added Pin To Net: NetName=PE4 Pin=U2-3
+Added Pin To Net: NetName=PE5 Pin=U2-4
+Added Pin To Net: NetName=PE6 Pin=U2-5
+Added Pin To Net: NetName=ext3 Pin=U2-6
+Added Pin To Net: NetName=PC13 Pin=U2-7
+Added Pin To Net: NetName=PC14 Pin=U2-8
+Added Pin To Net: NetName=PC15 Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-10
+Added Pin To Net: NetName=ext3 Pin=U2-11
+Added Pin To Net: NetName=NetC27_1 Pin=U2-12
+Added Pin To Net: NetName=NetR45_2 Pin=U2-13
+Added Pin To Net: NetName=NetC23_1 Pin=U2-14
+Added Pin To Net: NetName=PC0 Pin=U2-15
+Added Pin To Net: NetName=PC1 Pin=U2-16
+Added Pin To Net: NetName=PC2 Pin=U2-17
+Added Pin To Net: NetName=PC3 Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U2-20
+Added Pin To Net: NetName=NetC20_1 Pin=U2-21
+Added Pin To Net: NetName=ext3 Pin=U2-22
+Added Pin To Net: NetName=PA0 Pin=U2-23
+Added Pin To Net: NetName=PA1 Pin=U2-24
+Added Pin To Net: NetName=PA2 Pin=U2-25
+Added Pin To Net: NetName=PA3 Pin=U2-26
+Added Pin To Net: NetName=GND Pin=U2-27
+Added Pin To Net: NetName=ext3 Pin=U2-28
+Added Pin To Net: NetName=PA4 Pin=U2-29
+Added Pin To Net: NetName=PA5 Pin=U2-30
+Added Pin To Net: NetName=PA6 Pin=U2-31
+Added Pin To Net: NetName=PA7 Pin=U2-32
+Added Pin To Net: NetName=PC4 Pin=U2-33
+Added Pin To Net: NetName=PC5 Pin=U2-34
+Added Pin To Net: NetName=PB0 Pin=U2-35
+Added Pin To Net: NetName=PB1 Pin=U2-36
+Added Pin To Net: NetName=PB2 Pin=U2-37
+Added Pin To Net: NetName=PE7 Pin=U2-38
+Added Pin To Net: NetName=AL Pin=U2-39
+Added Pin To Net: NetName=AH Pin=U2-40
+Added Pin To Net: NetName=BL Pin=U2-41
+Added Pin To Net: NetName=BH Pin=U2-42
+Added Pin To Net: NetName=CL Pin=U2-43
+Added Pin To Net: NetName=CH Pin=U2-44
+Added Pin To Net: NetName=PE14 Pin=U2-45
+Added Pin To Net: NetName=PE15 Pin=U2-46
+Added Pin To Net: NetName=PB10 Pin=U2-47
+Added Pin To Net: NetName=PB11 Pin=U2-48
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=ext3 Pin=U2-50
+Added Pin To Net: NetName=PB12 Pin=U2-51
+Added Pin To Net: NetName=PB13 Pin=U2-52
+Added Pin To Net: NetName=PB14 Pin=U2-53
+Added Pin To Net: NetName=PB15 Pin=U2-54
+Added Pin To Net: NetName=PD8 Pin=U2-55
+Added Pin To Net: NetName=PD9 Pin=U2-56
+Added Pin To Net: NetName=NetC24_1 Pin=U2-57
+Added Pin To Net: NetName=NetR43_1 Pin=U2-58
+Added Pin To Net: NetName=NetR44_1 Pin=U2-59
+Added Pin To Net: NetName=PD13 Pin=U2-60
+Added Pin To Net: NetName=PD14 Pin=U2-61
+Added Pin To Net: NetName=PD15 Pin=U2-62
+Added Pin To Net: NetName=PC6 Pin=U2-63
+Added Pin To Net: NetName=PC7 Pin=U2-64
+Added Pin To Net: NetName=PC8 Pin=U2-65
+Added Pin To Net: NetName=PC9 Pin=U2-66
+Added Pin To Net: NetName=PA8 Pin=U2-67
+Added Pin To Net: NetName=UART1_TX Pin=U2-68
+Added Pin To Net: NetName=UART1_RX Pin=U2-69
+Added Pin To Net: NetName=CAN_RX Pin=U2-70
+Added Pin To Net: NetName=CAN_TX Pin=U2-71
+Added Pin To Net: NetName=SWDIO Pin=U2-72
+Added Pin To Net: NetName=GND Pin=U2-74
+Added Pin To Net: NetName=ext3 Pin=U2-75
+Added Pin To Net: NetName=SWCLK Pin=U2-76
+Added Pin To Net: NetName=PA15 Pin=U2-77
+Added Pin To Net: NetName=PC10 Pin=U2-78
+Added Pin To Net: NetName=PC11 Pin=U2-79
+Added Pin To Net: NetName=PC12 Pin=U2-80
+Added Pin To Net: NetName=PD0 Pin=U2-81
+Added Pin To Net: NetName=PD1 Pin=U2-82
+Added Pin To Net: NetName=PD2 Pin=U2-83
+Added Pin To Net: NetName=PD3 Pin=U2-84
+Added Pin To Net: NetName=PD4 Pin=U2-85
+Added Pin To Net: NetName=PD5 Pin=U2-86
+Added Pin To Net: NetName=PD6 Pin=U2-87
+Added Pin To Net: NetName=PD7 Pin=U2-88
+Added Pin To Net: NetName=PB3 Pin=U2-89
+Added Pin To Net: NetName=PB4 Pin=U2-90
+Added Pin To Net: NetName=PB5 Pin=U2-91
+Added Pin To Net: NetName=PB6 Pin=U2-92
+Added Pin To Net: NetName=PB7 Pin=U2-93
+Added Pin To Net: NetName=NetC26_1 Pin=U2-94
+Added Pin To Net: NetName=PB8 Pin=U2-95
+Added Pin To Net: NetName=PB9 Pin=U2-96
+Added Pin To Net: NetName=PE0 Pin=U2-97
+Added Pin To Net: NetName=PE1 Pin=U2-98
+Added Pin To Net: NetName=GND Pin=U2-99
+Added Pin To Net: NetName=ext3 Pin=U2-100
+Added Pin To Net: NetName=+12 Pin=X7-1
+Added Pin To Net: NetName=SWDIO Pin=XP7-3
+Added Pin To Net: NetName=NetHL2_1 Pin=R39-1
+Added Net: Name=NetHL2_1
+Added Member To Class: ClassName=Sheet1 Member=Component U2 STM32F103V8T6

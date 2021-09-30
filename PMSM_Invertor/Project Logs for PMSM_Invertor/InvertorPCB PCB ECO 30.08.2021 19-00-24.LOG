@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=C47 Old Footprint=CAPAE-D New Footprint=CAP-Ê50-35
+Change Component Footprint: Designator=C48 Old Footprint=CAPAE-D New Footprint=CAP-Ê50-35
+Change Component Footprint: Designator=C53 Old Footprint=CAPAE-D New Footprint=CAP-Ê50-35
+Change Component Footprint: Designator=C57 Old Footprint=CAPAE-D New Footprint=CAP-Ê50-35
+Change component parameters: Designator = "C47" ("C47"); Footprint = "CAPAE-D"; UniqueID = "\ZWCOYRLO" ("\ZWCOYRLO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565851"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C48" ("C48"); Footprint = "CAPAE-D"; UniqueID = "\UGJXDORQ" ("\UGJXDORQ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565851"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C53" ("C53"); Footprint = "CAPAE-D"; UniqueID = "\CRUEVNXY" ("\CRUEVNXY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565851"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C57" ("C57"); Footprint = "CAPAE-D"; UniqueID = "\MBNGRWQR" ("\MBNGRWQR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/9000565851"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=bridge Member=Component C5 Ñapacitor pol
+Added Member To Class: ClassName=bridge Member=Component C6 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C8 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C10 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C12 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C14 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C15 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C17 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C19 Capacitor
+Added Member To Class: ClassName=bridge Member=Component C21 Capacitor
